@@ -1,8 +1,7 @@
 # mccalc
 
-**mccalc** is an (unofficial) calculator for Minecraft. In the future, it will allow you to:
+**mccalc** is an (unofficial) calculator API for Minecraft. In the future, it will allow you to:
 - Stacks into items (and items into stacks)
-- An API
 - More to come!
 
 ## License
